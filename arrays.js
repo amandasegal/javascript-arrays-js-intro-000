@@ -6,4 +6,6 @@ var addElementToBeginningOfArray = ["thing1", "thing2"]
 
 addElementToBeginningOfArray = ["thing3",...addElementToBeginningOfArray]
 
-var destructivelyAddElementToBeginningOfArray
+var destructivelyAddElementToBeginningOfArray = ["thing5", "thing6"]
+
+destructivelyAddElementToBeginningOfArray.push("thing7")
